@@ -1,0 +1,196 @@
+.topbar{
+  background-color: #000;
+}
+.phone{
+  color: #FFFFFF;
+}
+.address{
+  color: #FFFFFF;
+}
+.icon{
+  color: white;
+  text-align: right;
+  margin-left: 20px;
+  position: relative;
+  top: 5px;
+  left: 200px;
+}
+.menu{
+  background-color: #FFF;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+.menubar{
+  color: #242424;
+  text-decoration: none;
+  margin-left: 20px;
+  font-size: 17px;
+}
+.button{
+  border-radius: 5px;
+background: #FB0;
+
+box-shadow: 0px 3px 6px 0px rgba(0, 0, 0, 0.23), 0px 3px 6px 0px rgba(0, 0, 0, 0.16);
+border-style: none;
+color: #FFF;
+text-align: right;
+position: relative;
+left: 200px;
+font-size: 17px;
+}
+.button:hover{
+background-color: #000;
+}
+.backimg{
+  background-image: url(assets/div.breadcumb-wrapper.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 5%;
+  padding-bottom: 30%;
+  position: relative;
+}
+.head1{
+  color: #FFF;
+
+/* text-align: center; */
+font-family: Jost;
+font-size: 64px;
+font-style: normal;
+font-weight: 600;
+line-height: 56.64px; /* 88.5% */
+text-transform: uppercase;
+}
+.one{
+  background-image: url(assets/Rectangle\ 2.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.Say{
+  color: #FFF;
+
+font-family: Jost;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: 61.32px; /* 170.333% */
+}
+.para{
+  color: #4D5765;
+
+font-family: Jost;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-transform: capitalize;
+padding-bottom: 5px;
+}
+.for{
+  color: #242424;
+
+font-family: Jost;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: 35px; /* 175% */
+}
+.Mobile{
+  color: #242424;
+font-family: Jost;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.FOLLOW{
+  color: #212529;
+
+font-family: Jost;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: 30px
+}
+.FOLLOW{
+  color: #212529;
+
+font-family: Jost;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: 30px;
+padding-bottom: 10px;
+padding-left: 10px;
+}
+.two{
+  position: relative;
+  bottom: 300px;
+}
+.icon1{
+  margin-left: 10px;
+}
+.right{
+background-color: white;
+padding: 50px;
+}
+.courese{
+  border: 1px solid black;
+  margin-bottom: 10px;
+}
+input{
+  padding: 10px;
+  padding-right: 150px;
+  background-color:#FFFBF2;
+  border-style: none;
+  margin-bottom: 10px;
+}
+::placeholder{
+  /* text-align: center; */
+}
+.Please{
+  color: #4D5765;
+
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px;
+margin-left: 120px;
+}
+.button1{
+  color: #000;
+
+text-align: center;
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px;
+margin-left: 120px;
+background-color:#FFFBF2 ;
+border-style: none;
+}
+.Others{
+  color: #242424;
+
+font-family: Jost;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: 46.01px;
+margin-left: 120px;
+}
+.oi{
+  padding: 50px;
+  background-color:#FFFBF2;
+  margin-left: 120px;
+}
+.Send{
+  border-radius: 5px;
+background: #FB0;
+box-shadow: 0px 3px 6px 0px rgba(0, 0, 0, 0.23), 0px 3px 6px 0px rgba(0, 0, 0, 0.16);
+border-style: none;
+}
+#header{
+  margin-bottom: 0px;
+}
